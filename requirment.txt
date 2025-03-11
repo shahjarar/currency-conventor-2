@@ -1,0 +1,7 @@
+streamlit>=1.25.0
+forex-python>=1.8
+requests>=2.28.0
+python-dotenv>=1.0.0
+matplotlib>=3.5.1
+pandas>=1.4.0
+plotly>=5.10.0
